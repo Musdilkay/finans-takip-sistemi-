@@ -1,0 +1,49 @@
+{
+  "transactions": [
+    {
+      "_id": "67fe14df5533e50e87c0bbc7",
+      "title": "Market",
+      "amount": 500,
+      "type": "expense",
+      "date": "2025-04-13T21:00:00.000Z",
+      "__v": 0
+    },
+    {
+      "_id": "67fe14f85533e50e87c0bbcb",
+      "title": "benzin",
+      "amount": 1000,
+      "type": "expense",
+      "date": "2025-04-13T21:00:00.000Z",
+      "__v": 0
+    },
+    {
+      "_id": "67fe4ee72696eaa101c1b76c",
+      "title": "Maaş",
+      "amount": 1000,
+      "type": "income",
+      "date": "2025-04-13T21:00:00.000Z",
+      "category": "Gelir",
+      "__v": 0
+    },
+    {
+      "_id": "67ff4f82a52a6ab34e7fd37c",
+      "title": "Ham madde",
+      "amount": 8500,
+      "type": "expense",
+      "date": "2025-04-13T21:00:00.000Z",
+      "category": "Kaynaklar",
+      "__v": 0
+    }
+  ],
+  "categories": [
+    {
+      "_id": "67ff3d143f507d5ea895d51c",
+      "name": "kalem",
+      "type": "expense",
+      "createdAt": "2025-04-16T05:16:04.501Z",
+      "updatedAt": "2025-04-16T05:16:04.501Z",
+      "__v": 0
+    }
+  ],
+  "createdAt": "2025-04-16T13:46:04.996Z"
+}

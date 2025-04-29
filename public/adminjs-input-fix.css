@@ -1,0 +1,14 @@
+/* TÜM Input/Textarea/Select öğelerini SİYAH metin ve BEYAZ arkaplan yapar */
+.adminjs_Input,
+.adminjs_Textarea,
+.adminjs_Select,
+.adminjs_DatePicker,
+.adminjs_RichTextEditor {
+  color: #000000 !important; /* Metin rengi SİYAH */
+  background-color: #ffffff !important; /* Arkaplan BEYAZ */
+}
+
+/* Placeholder rengi (gri) */
+.adminjs_Input::placeholder {
+  color: #666666 !important;
+}
